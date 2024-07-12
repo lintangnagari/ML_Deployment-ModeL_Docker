@@ -14,5 +14,7 @@ Dataset : https://www.kaggle.com/datasets/shiv28/animal-5-mammal
 
 About Dataset
 
-It contains about 15K medium quality animal images belonging to 5 categories: **dog, cat, horse, elephant ,lion**. All the images have been collected from `google images` and have been checked by human. There is some erroneous data to simulate real conditions (eg. images taken by users of your app)
+It contains about 15K medium quality animal images belonging to 5 categories: **dog, cat, horse, elephant ,lion**.
+All the images have been collected from `google images` and have been checked by human.
+There is some erroneous data to simulate real conditions (eg. images taken by users of your app)
 ```
